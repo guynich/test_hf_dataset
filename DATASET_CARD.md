@@ -1,10 +1,10 @@
 ---
 language:
 - en
-pretty_name: "test hf dataset"
+pretty_name: test hf dataset
 tags:
 - speech
-license: "mit"
+license: mit
 task_categories:
 - text-classification
 ---
